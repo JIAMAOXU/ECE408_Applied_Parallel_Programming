@@ -1,0 +1,12 @@
+profile:
+  id: 631204ddc55d8a6f4264d24b
+  firstname: "\uFEFF\x58\x75"
+  lastname: Jiamao
+  username: jiamaox2
+  email: jiamaox2@illinois.edu
+  access_key: auth0|631204de2dc9843a4f85be2a
+  secret_key: JGFyZ29uMmkkdj0xOSRtPTMyNzY4LHQ9NCxwPTQkYXdEOWhIcHdsY01vT1JtQ2FGaHE1ZyRiaSs2WmlKSWZBSlVpcG5WcUZXSWNYMm5naUlmUDZ5RkVoaVNxQ3JVVTRN
+  affiliation: ECE408
+  team:
+    name: ""
+  role: student
